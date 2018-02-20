@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT25320B
+D Atmel AT25320B EEPROM 32Kb
+$ENDCMP
+#
+$CMP HLK-P01
+D HiLink Power Supply
+K Power supply
+$ENDCMP
+#
+$CMP MCP1700T-3302E/TT
+D 3.3v LDO Regulator
+K LDO Regulator, 3v3, Fixed value
+$ENDCMP
+#
+$CMP Relay
+D Reed Relay (SPST)
+$ENDCMP
+#
+$CMP TEST_POINT
+D Test Point
+$ENDCMP
+#
+#End Doc Library
